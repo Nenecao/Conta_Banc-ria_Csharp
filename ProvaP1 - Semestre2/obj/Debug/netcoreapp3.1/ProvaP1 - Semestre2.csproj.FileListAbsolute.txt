@@ -1,0 +1,13 @@
+C:\Users\vinic\source\repos\ProvaP1 - Semestre2\ProvaP1 - Semestre2\bin\Debug\netcoreapp3.1\ProvaP1 - Semestre2.exe
+C:\Users\vinic\source\repos\ProvaP1 - Semestre2\ProvaP1 - Semestre2\bin\Debug\netcoreapp3.1\ProvaP1 - Semestre2.deps.json
+C:\Users\vinic\source\repos\ProvaP1 - Semestre2\ProvaP1 - Semestre2\bin\Debug\netcoreapp3.1\ProvaP1 - Semestre2.runtimeconfig.json
+C:\Users\vinic\source\repos\ProvaP1 - Semestre2\ProvaP1 - Semestre2\bin\Debug\netcoreapp3.1\ProvaP1 - Semestre2.runtimeconfig.dev.json
+C:\Users\vinic\source\repos\ProvaP1 - Semestre2\ProvaP1 - Semestre2\bin\Debug\netcoreapp3.1\ProvaP1 - Semestre2.dll
+C:\Users\vinic\source\repos\ProvaP1 - Semestre2\ProvaP1 - Semestre2\bin\Debug\netcoreapp3.1\ProvaP1 - Semestre2.pdb
+C:\Users\vinic\source\repos\ProvaP1 - Semestre2\ProvaP1 - Semestre2\obj\Debug\netcoreapp3.1\ProvaP1 - Semestre2.csprojAssemblyReference.cache
+C:\Users\vinic\source\repos\ProvaP1 - Semestre2\ProvaP1 - Semestre2\obj\Debug\netcoreapp3.1\ProvaP1 - Semestre2.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\ProvaP1 - Semestre2\ProvaP1 - Semestre2\obj\Debug\netcoreapp3.1\ProvaP1 - Semestre2.AssemblyInfo.cs
+C:\Users\vinic\source\repos\ProvaP1 - Semestre2\ProvaP1 - Semestre2\obj\Debug\netcoreapp3.1\ProvaP1 - Semestre2.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\ProvaP1 - Semestre2\ProvaP1 - Semestre2\obj\Debug\netcoreapp3.1\ProvaP1 - Semestre2.dll
+C:\Users\vinic\source\repos\ProvaP1 - Semestre2\ProvaP1 - Semestre2\obj\Debug\netcoreapp3.1\ProvaP1 - Semestre2.pdb
+C:\Users\vinic\source\repos\ProvaP1 - Semestre2\ProvaP1 - Semestre2\obj\Debug\netcoreapp3.1\ProvaP1 - Semestre2.genruntimeconfig.cache
